@@ -1,0 +1,45 @@
+Programming Fundamentals
+Name: Nhu-Chi Ha
+PROGRAMMING ASSIGNMENT 2
+Enter the size of the figure (odd number): 0
+
+Invalid figure size - must be an odd number 
+Renter the size of the figure:4
+
+Invalid figure size - must be an odd number 
+Renter the size of the figure:5
+
+MENU:
+1. Print box
+2. Print diamond
+3. Print X
+4. Quit program
+
+Please select an option: 1
+
+*****
+*****
+*****
+*****
+*****
+
+Please select an option: 2
+
+  **
+ *  *
+*    *
+ *  *
+  **
+
+Please select an option: 3
+
+X   X
+ X X
+  X
+ X X
+X   X
+
+Please select an option: 4
+
+Good bye!
+
