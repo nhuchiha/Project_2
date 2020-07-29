@@ -17,19 +17,19 @@ MENU:
 
 Please select an option: 1
 
-*****
-*****
-*****
-*****
-*****
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+XXXXX
 
 Please select an option: 2
 
-  **
- *  *
-*    *
- *  *
-  **
+  XX
+ X  X
+X    X
+ X  X
+  XX
 
 Please select an option: 3
 

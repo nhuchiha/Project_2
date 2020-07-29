@@ -65,8 +65,8 @@ public class Figures
 		for(int i = 0; i < size; i++)
 		{
 			for(int j = 1; j < size; j++)
-				System.out.print("*");
-			System.out.println("*");
+				System.out.print("X");
+			System.out.println("X");
 		}			
 	}
 	// Create the diamond figure
@@ -80,11 +80,11 @@ public class Figures
 			
 			for (int j = 0; j < k; j++)
 				System.out.print(" ");
-			System.out.print("*");
+			System.out.print("X");
 			
 			for (int j = 0; j < (m - k) * 2 ; j++)
 				System.out.print(" ");
-			System.out.println("*");
+			System.out.println("X");
 		}
 	}
 	// Create the X figure
